@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "What Alice Forgot",
+      "author": "Liane Moriarty",
+      "image": "/images/what-alice-forgot.jpeg",
+      "alt": "What Alice Forgot book",
+      "mood": "Escapism",
+      "definition": "The tendency to seek distraction and relief from unpleasant realities, especially by seeking entertainment or engaging in fantasy."
+    },
+    {
+      "id": 2,
+      "title": "Every Day",
+      "author": "David Levithan",
+      "image": "/images/every-day.jpeg",
+      "alt": "Every Day book",
+      "mood": "Escapism",
+      "definition": "The tendency to seek distraction and relief from unpleasant realities, especially by seeking entertainment or engaging in fantasy."
+    },
+    {
+      "id": 3,
+      "title": "Zaatar Days Henna Nights",
+      "author": "Maliha Masood",
+      "image": "/images/zaatar-days-henna-nights.png",
+      "alt": "Zaatar Days Henna Nights book",
+      "mood": "Adventurous",
+      "definition": "Willing to take risks or to try out new methods, ideas, or experiences."
+    },
+    {
+      "id": 4,
+      "title": "Balthasar's Odyssey",
+      "author": "Amin Maalouf",
+      "image": "/images/balthasar's-odyssey.jpeg",
+      "alt": "Balthasar's Odyssey book",
+      "mood": "Adventurous",
+      "definition": "Willing to take risks or to try out new methods, ideas, or experiences."
+    },
+    {
+      "id": 5,
+      "title": "The Last Letter From Your Lover",
+      "author": "Jojo Moyes",
+      "image": "/images/the-last-letter-from-your-lover.jpeg",
+      "alt": "The Last Letter From Your Lover book",
+      "mood": "Romantic",
+      "definition": "Evoking thoughts and feelings of love."
+    },
+    {
+      "id": 6,
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "image": "/images/the-time-traveler's-wife.jpeg",
+      "alt": "The Time Traveler's Wife book",
+      "mood": "Romantic",
+      "definition": "Evoking thoughts and feelings of love."
+    },
+    {
+      "id": 7,
+      "title": "Crescent",
+      "author": "Diana Abu-Jaber",
+      "image": "/images/crescent.jpeg",
+      "alt": "Crescent book",
+      "mood": "Hungry",
+      "definition": "Feeling or showing the need for food."
+    },
+    {
+      "id": 8,
+      "title": "The Language of Baklava",
+      "author": "Diana Abu-Jaber",
+      "image": "/images/the-language-of-baklava.jpeg",
+      "alt": "The Language of Baklava book",
+      "mood": "Hungry",
+      "mood definition": "Feeling or showing the need for food."
+    }
+  ]
+}

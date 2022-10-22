@@ -1,0 +1,9 @@
+<h2>Books</h2>
+<p>Books that match your current mood:</p>
+<div>
+  {{#each books}}
+  <img src="{{image}}" alt="{{alt}}">
+  <p><strong>Title: </strong>{{title}}</p>
+  <p><strong>By: </strong>{{author}}</p>
+  {{/each}}
+</div>
